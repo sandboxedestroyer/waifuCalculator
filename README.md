@@ -172,9 +172,10 @@ zero.play();
 * 
 
 ** Main functions  **
+
 *
 here its the differents functions and how work in the Waifu calculator
 *
 
-![the main function on the Waifu Calculator](https://imgur.com/t0unfnK)
+![the main function on the Waifu Calculator] (https://imgur.com/t0unfnK)
 
