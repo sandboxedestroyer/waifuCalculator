@@ -27,10 +27,7 @@ not only make operations also too
 working with espectucular sounds in the buttons
 this cool calculator are will be leave your old calculator
 
-this cool calc
-el cual te hara dejar de usar tu calculadora del dia.
-
-**Funciones Principales**
+**Main Functions**
 
 *this is the function to evalue two values*
 ```
@@ -135,6 +132,31 @@ sum.addEventListener('ended', ()=>{
 //if is cliked the event will be start
 $('#sum').click( ()=>{
 sum.play();
+} )
+
+});
+```
+
+**Main functions Buttons**
+
+*All buttons used the same kind of function only changes the names for be more easy to read and code *
+
+```
+/// ZERO ///
+$(document).ready( ()=>{
+//make the var and create element audio
+let zero= document.createElement('audio');
+//add a attribute with the sound
+zero.setAttribute('src', './sound/button.mp3');
+
+//create a event listener
+zero.addEventListener('ended', ()=>{
+ this.play();
+}, false);
+
+//if is cliked the event will be start
+$('#zero').click( ()=>{
+zero.play();
 } )
 
 });
