@@ -24,6 +24,16 @@ No solo realiza las operaciones descritas tambien
 cuenta con unos espectaculares sonidos en los botones
 el cual te hara dejar de usar tu calculadora del dia.
 
+**Funciones Principales**
+
+*Realiza el calculo del valor*
+```
+//make the operation
+function op(){
+    $('.result input').val( eval( $('.result input').val() )  );
+}
+```
+
 *funcion clear*
 ```
 //clear the result
