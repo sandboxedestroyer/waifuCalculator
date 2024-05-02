@@ -45,3 +45,24 @@ $(document).ready( ()=>{
 
 } )
 ```
+*function sum*
+```
+/// SUM ///
+$(document).ready( ()=>{
+//make the var and create element audio
+let sum= document.createElement('audio');
+//add a attribute with the sound
+sum.setAttribute('src', './sound/buttonOp.mp3');
+
+//create a event listener
+sum.addEventListener('ended', ()=>{
+ this.play();
+}, false);
+
+//if is cliked the event will be start
+$('#sum').click( ()=>{
+sum.play();
+} )
+
+});
+```
