@@ -26,7 +26,7 @@ el cual te hara dejar de usar tu calculadora del dia.
 
 **Funciones Principales**
 
-*Realiza el calculo del valor*
+*this is the function to evalue two values*
 ```
 //make the operation
 function op(){
@@ -34,7 +34,7 @@ function op(){
 }
 ```
 
-*funcion clear*
+*function clear*
 ```
 //clear the result
 $(document).ready( ()=>{
@@ -45,9 +45,9 @@ $(document).ready( ()=>{
 
 } )
 ```
-** principal operators buttons sounds **
+** main operators buttons sounds **
 
-*division*
+*function division*
 ```
 /// DIV ///
 $(document).ready( ()=>{
