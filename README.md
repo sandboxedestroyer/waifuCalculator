@@ -167,5 +167,5 @@ zero.play();
 
 **System Requeriments**
 
-*You don;t*
+*You don;t need install another requeriments to used you can used without install nothing*
 
