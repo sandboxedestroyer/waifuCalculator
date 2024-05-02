@@ -11,11 +11,11 @@ matematicas.**
 
 Esta calculadora esta realiza con las tecnologias actuales
 
-° **HTML5**
-° **CCS3**
-° **Bootstrap 5.3**
-° **JS ES6**
-° **JQuery 3.7** 
+- **HTML5**
+* **CCS3**
+* **Bootstrap 5.3**
+* **JS ES6**
++ **JQuery 3.7** 
 
 **Interactiva con el usuario**
 No solo realiza las operaciones descritas tambien 
