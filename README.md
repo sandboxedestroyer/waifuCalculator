@@ -6,12 +6,13 @@
 en esta calculadora se pueden realizar las 4 operaciones
 matematicas.**
 
-- Sumar 
-* Restar
-* Multiplicar 
-+ Dividir
+- Sum
+* Rest
+* Multiplicate
++ Splite
 
-Esta calculadora esta realiza con las tecnologias actuales
+
+*This calculator are maked with the new technologies*
 
 - **HTML5**
 * **CCS3**
@@ -69,7 +70,7 @@ div.play();
 });
 ```
 
-*multiplicate*
+*function multiplicate*
 ```
 $(document).ready( ()=>{
 //make the var and create element audio
@@ -90,7 +91,7 @@ multi.play();
 });
 ```
 
-*rest*
+*function rest*
 ```
 $(document).ready( ()=>{
 //make the var and create element audio
