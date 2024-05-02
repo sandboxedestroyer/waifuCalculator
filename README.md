@@ -45,6 +45,73 @@ $(document).ready( ()=>{
 
 } )
 ```
+** principal operators buttons sounds **
+
+*division*
+```
+/// DIV ///
+$(document).ready( ()=>{
+//make the var and create element audio
+let div= document.createElement('audio');
+//add a attribute with the sound
+div.setAttribute('src', './sound/buttonOp.mp3');
+
+//create a event listener
+div.addEventListener('ended', ()=>{
+ this.play();
+}, false);
+
+//if is cliked the event will be start
+$('#div').click( ()=>{
+div.play();
+} )
+
+});
+```
+
+*multiplicate*
+```
+$(document).ready( ()=>{
+//make the var and create element audio
+let multi= document.createElement('audio');
+//add a attribute with the sound
+multi.setAttribute('src', './sound/buttonOp.mp3');
+
+//create a event listener
+multi.addEventListener('ended', ()=>{
+ this.play();
+}, false);
+
+//if is cliked the event will be start
+$('#multi').click( ()=>{
+multi.play();
+} )
+
+});
+```
+
+*rest*
+```
+$(document).ready( ()=>{
+//make the var and create element audio
+let rest= document.createElement('audio');
+//add a attribute with the sound
+rest.setAttribute('src', './sound/buttonOp.mp3');
+
+//create a event listener
+rest.addEventListener('ended', ()=>{
+ this.play();
+}, false);
+
+//if is cliked the event will be start
+$('#rest').click( ()=>{
+rest.play();
+} )
+
+});
+
+```
+
 *function sum*
 ```
 /// SUM ///
