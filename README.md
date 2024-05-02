@@ -1,2 +1,35 @@
-# waifuCalculator
-this is awesome and cool calculator you can make operations while you watch a beautiful waifu and listen and cool song. free to use you can copy and i will copy your code to like a good devs in the World.
+# The Waifu Calculator 
+
+**Waifu Calculator es una calculadora muy bacana
+en esta calculadora se pueden realizar las 4 operaciones
+matematicas.**
+
+° Sumar, 
+° Restar, 
+° Multiplicar, 
+° Dividir.
+
+Esta calculadora esta realiza con las tecnologias actuales
+
+° **HTML5**
+° **CCS3**
+° **Bootstrap 5.3**
+° **JS ES6**
+° **JQuery 3.7** 
+
+**Interactiva con el usuario**
+No solo realiza las operaciones descritas tambien 
+cuenta con unos espectaculares sonidos en los botones
+el cual te hara dejar de usar tu calculadora del dia.
+
+*funcion clear*
+```
+//clear the result
+$(document).ready( ()=>{
+
+    $('#btnClear').click( ()=>{
+        $('.result input').val('0')
+      })
+
+} )
+```
