@@ -25,9 +25,10 @@ Not only you can make the four operations also
 has with a cool sounds in the buttons
 which will make you leave your normal calculator
 not only make operations also too 
-have with at espectucular sounds in the buttons
-No solo realiza las operaciones descritas tambiem
-cuenta con unos espectaculares sonidos en los botones
+working with espectucular sounds in the buttons
+this cool calculator are will be leave your old calculator
+
+this cool calc
 el cual te hara dejar de usar tu calculadora del dia.
 
 **Funciones Principales**
