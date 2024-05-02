@@ -167,5 +167,14 @@ zero.play();
 
 **System Requeriments**
 
-*You don;t need install another requeriments to used you can used without install nothing*
+*You don;t need install another requeriments to used you can used without install nothing but you need used all librarys 
+ if you like to work with the waifu calculator :D
+* 
+
+** Main functions  **
+*
+here its the differents functions and how work in the Waifu calculator
+*
+
+![the main function on the Waifu Calculator](https://imgur.com/t0unfnK)
 
