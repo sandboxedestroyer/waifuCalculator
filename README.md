@@ -1,6 +1,6 @@
 # The Waifu Calculator 
 
-![the waifu calculator]{https://i.imgur.com/Fqyawnp.png}
+![the waifu calculator](https://i.imgur.com/Fqyawnp.png)
 
 **Waifu Calculator es una calculadora muy bacana
 en esta calculadora se pueden realizar las 4 operaciones
