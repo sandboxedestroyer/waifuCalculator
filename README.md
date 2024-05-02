@@ -3,8 +3,7 @@
 ![the waifu calculator](https://i.imgur.com/Fqyawnp.png)
 
 **The Waifu Calculator it is a really cool calculator
-in this calculator you can make the four matematical operations
-**
+in this calculator you can make the four matematical operations**
 
 - Sum
 * Rest
