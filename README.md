@@ -161,3 +161,11 @@ zero.play();
 
 });
 ```
+
+**Full Responsive**
+*This calculator its full responsive so you can used in you smartphone*
+
+**System Requeriments**
+
+*You don;t*
+
