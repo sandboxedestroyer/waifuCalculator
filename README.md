@@ -4,10 +4,10 @@
 en esta calculadora se pueden realizar las 4 operaciones
 matematicas.**
 
-° Sumar: 
-° Restar:
-° Multiplicar: 
-° Dividir:
+- Sumar 
+* Restar
+* Multiplicar 
++ Dividir
 
 Esta calculadora esta realiza con las tecnologias actuales
 
