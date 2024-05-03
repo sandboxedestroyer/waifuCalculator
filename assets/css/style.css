@@ -1,0 +1,183 @@
+
+/* *** TAGs STYLES *** */
+
+body{
+    /*background: linear-gradient(#000, grey);*/
+    background-image: url('../img/bg.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-family: "Audiowide", sans-serif !important;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    color: #fff;
+    font-size: 24PX;
+}
+
+/* *** TAGs STYLES END *** */
+
+/* *** CLASS STYLES *** */
+
+input {
+       text-align: center;
+       height: 48px;
+       font-size: 25px;
+       width: 100%;
+       max-width: 300px;
+       background-color: darkcyan;
+       color: #fff;
+}
+
+.calcContainer {
+    border: 1px solid rgb(0, 255, 13) ;
+    border-radius: 5%;
+    background-color: rgb(6, 6, 6);
+    width: 300px;
+    height: 530px;
+    z-index: 1;
+}
+.calc {
+    width: 300px;
+    height: 500px;
+}
+
+.calcTitle {
+    color: #fff;
+    margin-top: 3%;
+}
+
+.border {
+    border:1px solid red;
+}
+
+.calcScreen {
+    height: 50px;
+    border: 2px solid #474747 !important;
+}
+ .calcResults {
+    color: white;
+    margin-top: 5%;
+
+ } 
+
+.calcNumbers {
+    padding-top: 2%;
+    padding-left: 2.1%;
+    padding-right: 0%;
+    padding-bottom: 2%;
+    width: 70%;   
+    max-width: 70%;
+    height: 360px;
+    border: solid rgb(104, 104, 104) !important;
+    border-top: 2px;
+    border-left: 2px;
+    border-right: 5px;
+    border-bottom: 2px;
+
+}
+
+.calcButtons {
+    width: 30%;
+    border: solid rgb(104, 104, 104) !important;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    max-width: 30%;
+}
+
+
+
+.box {
+    width: 50px;
+    height: 60px;
+    background-color: rgb(70, 70, 70);
+    margin-bottom: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    border: 3px solid rgb(0, 255, 13) ;
+    border-radius: 10px;
+
+}
+.box>p {
+    margin-top: 50%;
+}
+
+.box:hover {
+    border: 3px solid rgb(9, 124, 14) ;
+}
+
+.waifu {
+    z-index: 0;
+}
+
+.zero{
+    width: 60% ;
+}
+
+.zeroP{
+    margin-top: 20px !important;
+    font-size: 28px;
+   }
+
+/****** footer styles *******/
+
+.footerCalc{
+    margin-top: 1%;
+    max-width: 300px;
+}
+
+.footerTitle{
+    max-width: 270px;
+    padding-left: 5%;
+    width: 270px;
+    height: 20px;
+    margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footerTitle > p {
+    font-size: 15px !important;
+    max-width: 250px;
+    width: 250px;
+    height: 20px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+.footerCalcRights {
+    max-width: 299px;
+    width: 200px;
+    margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footerCalcDragon{
+    max-width: 200px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footerCalcRightsI{
+    max-width: 160px;
+    width: 160px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.linkFooter{
+    color: #fff;
+}
+
+
+/* *** CLASS STYLES END *** */
