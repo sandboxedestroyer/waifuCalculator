@@ -1,7 +1,7 @@
 # The Waifu Calculator 
 
 **By**
-(https://pentest4.fun)
+(pentest4.fun)
 
 ![the waifu calculator](https://i.imgur.com/Fqyawnp.png)
 
