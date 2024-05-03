@@ -176,3 +176,5 @@ zero.play();
 
 ![the main function on the Waifu Calculator](https://i.imgur.com/qOHYIZb.jpeg)
 
+**Free to use** 
+*you can used my waifu calculator its free to use you can create another cool calculator with the code :D !*
