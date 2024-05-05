@@ -6,7 +6,7 @@
 ![the waifu calculator](https://i.imgur.com/Fqyawnp.png)
 
 **Working Example**
-:[enlace bacan](https://pentest4.fun)
+:[test online](https://waifucalculator.000webhostapp.com/)
 
 **The Waifu Calculator it is a really cool calculator
 in this calculator you can make the four matematical operations**
